@@ -1,18 +1,30 @@
-NOTE* All CMD needs to be type lowercase
-
-cd = change directory
-pwd = show the directory youre in
-mkdir = make a new directory/folder
-rmdir = delete directory
-rm = delete file
-ls = show all files and folders
-touch = make files
-cp= copy
-mv = move/rename files
+# **Terminal Cheat Sheet**
 
 
--a = all
--l = additional info
--p = create parent if it doesn't exists
--rf = force CMD
-NOTE* can be string IE: -al
+### **NOTE** `type CMD in lower case`
+
+| CMD   |     NAME   |         DECSCRIPTION    |
+|----------|:---------------:|:-----------------:|
+| CD |  Change Directory | Moving to a different folder|
+| PWD|  Print Working Directory | show the directory you're in |
+| MKDIR | Make Directory | Create a new folder|
+| RMDIR | Remove Directory| Delete folder|
+| RM | Remove| Delete file |
+| LS | List| Show all files and folders |
+| TOUCH | Touch | Create files |
+| CP | Copy | Copy file|
+| MV | Move | Move/rename files |
+
+
+### **NOTE 1** `can be string IE: -al`
+
+| CMD   |     NAME   |        
+|----------|:---------------:|
+| A | All in current Directory|
+| L|  Print Working Directory | 
+| P| Create PATH if it doesnt exist | 
+| RF| Force the CMD| 
+
+## AND REMEMBER!!!
+![alt text](https://sd.keepcalms.com/i/keep-calm-and-stay-confused.png "MEME")
+
