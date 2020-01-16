@@ -15,6 +15,11 @@
 | CP | Copy | Copy file|
 | MV | Move | Move/rename files |
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### **NOTE 1** `can be string IE: -al`
 
