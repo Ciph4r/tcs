@@ -30,6 +30,8 @@
 | P| Create PATH if it doesnt exist | 
 | RF| Force the CMD| 
 
+## [Click Me for more info ](https://www.ubuntupit.com/the-50-best-linux-commands-to-run-in-the-terminal/)
+
 ## AND REMEMBER!!!
 ![alt text](https://sd.keepcalms.com/i/keep-calm-and-stay-confused.png "MEME")
 
